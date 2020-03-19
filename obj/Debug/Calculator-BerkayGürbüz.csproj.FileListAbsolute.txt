@@ -1,0 +1,9 @@
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\bin\Debug\Calculator-BerkayGürbüz.exe.config
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\bin\Debug\Calculator-BerkayGürbüz.exe
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\bin\Debug\Calculator-BerkayGürbüz.pdb
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\obj\Debug\Calculator-BerkayGürbüz.csprojAssemblyReference.cache
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\obj\Debug\Calculator_BerkayGürbüz.Form1.resources
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\obj\Debug\Calculator_BerkayGürbüz.Properties.Resources.resources
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\obj\Debug\Calculator-BerkayGürbüz.csproj.GenerateResource.cache
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\obj\Debug\Calculator-BerkayGürbüz.exe
+C:\Users\Berkay\source\repos\Calculator-BerkayGürbüz\Calculator-BerkayGürbüz\obj\Debug\Calculator-BerkayGürbüz.pdb
